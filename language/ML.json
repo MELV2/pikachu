@@ -26,24 +26,24 @@
             "DELETED": "*✅ module delete aaki!*"
         },
         "admin": {
-            "BAN_DESC": "groupil nin arellum porth akaan. ayallude messagin reply cheyu allenkill tag cheyyu.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
+            "BAN_DESC": "ഗ്രൂപ്പിൽ ഉള്ള ആരെയെങ്കിലും തട്ടണം എന്ന് ഉണ്ടെങ്കിൽ പേരും വിലാസവും അയക്കുക🌚.",
+            "IM_NOT_ADMIN": "*ഞാൻ അഡ്മിൻ അല്ല കുട്ടാ☹️*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
-            "ADD_DESC": "Adds someone to the group.",
-            "ADDED": "groupilott keteekn!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
-            "PROMOTED": "```admin aakki..!```",
+            "ADD_DESC": "ഏതേലും വാഴയെ ഗ്രൂപ്പിലോട്ട് add ആകാൻ🌚.",
+            "ADDED": "വാഴയെ ഗ്രൂപ്പിലോട്ട് add ആക്കിട്ടുണ്ട്!",
+            "ALREADY_PROMOTED": "```Avan admin anu monuse🙃```",
+            "PROMOTED": "```വാഴയെ admin ആക്കിട്ടുണ്ട്..!```",
             "PROMOTE_DESC": "oralle admin akkaan.",
-            "DEMOTE_DESC": "admin sthanam edth kalaayan.",
-            "ALREADY_NOT_ADMIN": "```admine njan engane veendum admin aakkum?```",
-            "DEMOTED": "```, ivante admin sthanam onn mateekn!```",
+            "DEMOTE_DESC": " അഡ്മിൻ സ്ഥാനം അടിച്ചു പറപ്പിക്കാൻ",
+            "ALREADY_NOT_ADMIN": "*അഡ്മിനെ എങ്ങനെയാ ser ഞാൻ അഡ്മിൻ ആക്കുനെ!*```",
+            "DEMOTED": "*അഡ്മിൻ സ്ഥാനം അടിച്ചു പറപ്പിച്ചിട്ടുണ്ട്🌚💫*",
             "MUTE_DESC": "group messaging admin mathram akaan.",
             "MUTED": "```admin only aakki!```",
             "UNMUTE_DESC": "aarkum message ayaan, admin only allathe akkan.",
             "UNMUTED": "```admin only allathe akeett und!```",
             "INVITE_DESC": "groupilikk kshennikaan ulla linkin aayitt.",
-            "INVITE": "```kshana kath..😉: ```"
+            "INVITE": "```ഇന്നാ ക്ഷേണ കത്ത്..😉: ```"
         },
         "locate": {
             "L_DESC": "location ayach therum.",
@@ -56,8 +56,8 @@
             "REASON": "kaaranam",
             "LAST_SEEN": "avasanam kandath",
             "IM_NOT_AFK": "```njan AFK aan!```",
-            "AFK_TEXT": "```ente owner ippo online illa.```",
-            "AFK_TEXT_NOMD": "njan bot aan!",
+            "AFK_TEXT": "```TOMMY SHELBY ippo online illa.```",
+            "AFK_TEXT_NOMD": "njan MEL-BOT aan!",
             "HOUR": "manikoor",
             "MINUTE": "minute",
             "SECOND": "second"
@@ -72,10 +72,10 @@
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart pinkymwol\n",
-            "RESTART_MSG": "```punararambikkunu...```",
-            "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
-            "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
+            "RESTART_DESC": "\nRestart MEL-BOT\n",
+            "RESTART_MSG": "```MEL-BOT restarting..```",
+            "SHUTDOWN_DESC": "\nShutdown MEL-BOT\n",
+            "SHUTDOWN_MSG": "```MEL-BOT ഇന്നേ സ്വിച്ച് ഓഫ്‌ ആകുന്നു⛔```",
             "DYNO_DESC": "heroku dyno kanaan ",
             "DYNO_TOTAL": "```motham Quota```",
             "DYNO_USED": "```Quota upayogichath```",
@@ -131,8 +131,8 @@
             "DOWNLOADING": "```chithrathil eyuthh add cheyyunu...```"
         },
         "log": {
-            "LOG": "ningal reply cheytha message ningalude privete numberil save aakum.",
-            "REPLY": "*eathenkkillum messagin replay cheyyu!*",
+            "LOG": "ningal reply cheytha message ningalude private numberil save aakum.",
+            "REPLY": "*eathenkkillum messagin reply cheyyu!*",
             "ANIM": "animated sticker supporting alla!",
             "HEAD": "```===== [LOGGED MESSAGE] =====```\n\n",
             "USER": " From User Number \n",
@@ -148,8 +148,8 @@
             "RESULT": "*baasha:* ```{}```\n*ithaan njan vayichath:* ```{}```"
         },
         "profile": {
-            "KICKME_DESC": "enne groupill nin purath akaan.",
-            "KICKME": "```Bye bye! njan povunnu 🤠```",
+            "KICKME_DESC": "Mel മോളെ ഗ്രൂപ്പിൽ നിന്നും പുറത്ത് ആകാൻ.",
+            "KICKME": "```Bye Mel മോൾ പോകുവാ```",
             "PP_DESC": "reply cheytha chithram profil akkaan.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```profile maattunnu...```",
@@ -168,7 +168,7 @@
             "REMOVEBG_DESC": "chithrathinte background maayichu kalaayan.",
             "NEED_PHOTO": "*photo thaa mister!*",
             "NO_API_KEY": "*Api key illa aliyaa*\n```remove.bg login for apikey```",
-            "RBGING": "```maayikkunu...```"
+            "RBGING": "```BACKGROUND മായിച്ചു കൊണ്ട് ഇരിക്കുവാ ചേട്ടാ```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "google translator vech viverthanam cheyyunu, eathellum messagin reply cheyannam.",
@@ -186,7 +186,7 @@
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\npaatt thappunnu 🤗\n",
+            "DOWNLOADING_SONG": "\npattu thappikond irikunu🤗\n",
             "UPLOADING_SONG": "\nPaatt Upload 📲 cheyyunnu\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
@@ -204,26 +204,26 @@
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```Ippam Sheriyaakithara 🤠```"
+            "DOWNLOADING": "```Ippam Sheriyaakitharam 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
             "SYSD_DESC": "system properties kaanikkum."
         },
         "tagall": {
-            "TAGALL_DESC": "groupile ellareyum tag cheyyum.",
+            "TAGALL_DESC": "ഗ്രൂപ്പിലെ എല്ലാവരെയും വിളിക്കാൻ.",
             "ADMİN": "*njan admin allalo..😕!*"
         },
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
-            "UPDATE": "*ningalude bot up-to-date aan!*",
-            "NEW_UPDATE": "*Pikachu Puthiya Update Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "UPDATE": "*ningalude bot updated aan!*",
+            "NEW_UPDATE": "*MEL-BOT Puthiya version Vannittund* \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
             "UPDATING": "```Updating..🐥```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Pikachu Restarting..*"
+            "AFTER_UPDATE": "*😎 MEL-BOT Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -475,7 +475,7 @@
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
         },
         "instagram": {
-            "NEED_WORD": "*user name entha...?.*",
+            "NEED_WORD": "*username എന്താ ചേട്ടാ🌚...?.*",
             "USAGE": ".insta <userName>",
             "DESC": "user informations instagramil ninn eduth therum",
             "LOADING": "user data edukkunu.",
@@ -495,13 +495,13 @@
             
         },
         "whois": {
-            "PL_DESC": "alude alenkill groupinte meta data kaanikkunu.",
-            "SUB": "*Groupinte per:* ",
+            "PL_DESC": "വാഴയുടെ അല്ലെങ്കിൽ ഗ്രൂപ്പിന്റെ meta data കാണിക്കുന്നു.",
+            "SUB": "*ഗ്രൂപ്പിന്റെ പേര്:* ",
             "DES": "*Group Description:* ",
-            "OWN": "*Founder:* ",
+            "OWN": "*ഗ്രൂപ്പിന്റെ വാഴ:* ",
             "COD": "*Unique Group Code:* ",
             "JİD": "*Person JID:* ",
-            "ST": "*Person Status:* "
+            "ST": "*വാഴയുടെ സ്റ്റാറ്റസ്:* "
         },
         "covid": {
             "COV_DESC": "15 raajyathe covid details kaanikaan.",
