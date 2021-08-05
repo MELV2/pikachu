@@ -308,7 +308,7 @@ async function whatsAsena () {
         console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
 ${chalk.white.bold('Version:')} ${chalk.red.bold(config.VERSION)}
 
-${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
+${chalk.blue.italic('ℹ️ MEL-BOT Connecting to WhatsApp... Please Wait.')}`);
     });
     conn.on('credentials-updated', async () => {
         console.log(
@@ -345,7 +345,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
         // ==================== End Internal Plugins ====================
 
         console.log(
-            chalk.green.bold('✅ Plugins Installed!')
+            chalk.green.bold('✅ MEL-BOT SUCCESFULLY INSTALLED Installed!')
         );
         if (os.userInfo().homedir !== clh.pay) return;
         await new Promise(r => setTimeout(r, 200));
@@ -396,7 +396,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                 if (config.FULLEVA == 'true') {
                     await conn.sendMessage(conn.user.jid, EVA_ACTİON, MessageType.text)
                 } else {
-                    await conn.sendMessage(conn.user.jid, '\n*Pikachu Working as Public!😎*\n', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '\n*MEL-BOT😍 Working as Public!😎*\n', MessageType.text);
                 }               
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
@@ -415,7 +415,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
         
                     await conn.sendMessage(
                         conn.user.jid,
-                        '```Type``` *.update now* ```For Update The Bot.```\n\n' + degisiklikler + '```', MessageType.text
+                        '```Type``` *.update now* ```For Updating MEL-BOT.```\n\n' + degisiklikler + '```', MessageType.text
                     ); 
                 }
             }
